@@ -3,7 +3,6 @@ package com.ordersimulation.ordersimulation.dto.order;
 import java.math.BigDecimal;
 import java.util.List;
 
-import com.ordersimulation.ordersimulation.model.Product;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
